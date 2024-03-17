@@ -1,0 +1,37 @@
+C:\Users\Kim Ngan\OneDrive\Desktop\lap trinh win\Đồ Án\SANPHAM\SANPHAM\bin\Debug\SANPHAM.exe.config
+C:\Users\Kim Ngan\OneDrive\Desktop\lap trinh win\Đồ Án\SANPHAM\SANPHAM\bin\Debug\SANPHAM.exe
+C:\Users\Kim Ngan\OneDrive\Desktop\lap trinh win\Đồ Án\SANPHAM\SANPHAM\bin\Debug\SANPHAM.pdb
+C:\Users\Kim Ngan\OneDrive\Desktop\lap trinh win\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.csproj.AssemblyReference.cache
+C:\Users\Kim Ngan\OneDrive\Desktop\lap trinh win\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.Properties.Resources.resources
+C:\Users\Kim Ngan\OneDrive\Desktop\lap trinh win\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.csproj.GenerateResource.cache
+C:\Users\Kim Ngan\OneDrive\Desktop\lap trinh win\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.csproj.CoreCompileInputs.cache
+C:\Users\Kim Ngan\OneDrive\Desktop\lap trinh win\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.exe
+C:\Users\Kim Ngan\OneDrive\Desktop\lap trinh win\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.pdb
+C:\Users\Kim Ngan\OneDrive\Desktop\lap trinh win\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.sanpham.resources
+C:\Users\Kim Ngan\OneDrive\Desktop\lap trinh win\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.size.resources
+C:\Users\Kim Ngan\OneDrive\Desktop\lap trinh win\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.LoaiSP.resources
+C:\Users\Kim Ngan\OneDrive\Desktop\lap trinh win\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.mau.resources
+C:\Users\Kim Ngan\OneDrive\Desktop\lap trinh win\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.NhanVien.resources
+D:\database\Đồ Án\SANPHAM\SANPHAM\bin\Debug\SANPHAM.exe.config
+D:\database\Đồ Án\SANPHAM\SANPHAM\bin\Debug\SANPHAM.exe
+D:\database\Đồ Án\SANPHAM\SANPHAM\bin\Debug\SANPHAM.pdb
+D:\database\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.csproj.AssemblyReference.cache
+D:\database\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.CTSP.resources
+D:\database\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.LoaiSP.resources
+D:\database\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.sanpham.resources
+D:\database\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.Properties.Resources.resources
+D:\database\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.csproj.GenerateResource.cache
+D:\database\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.csproj.CoreCompileInputs.cache
+D:\database\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.exe
+D:\database\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.pdb
+D:\database\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.frmsize.resources
+D:\database\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.frmNhaCungCap.resources
+D:\database\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.frmTimkiem.resources
+D:\database\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.frmmau.resources
+D:\database\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.frmKhachHang.resources
+D:\database\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.frmNhanVien.resources
+D:\database\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.frmHoaDonNhap.resources
+D:\database\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.frmkichthuoc.resources
+D:\database\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.TRANGCHU.resources
+D:\database\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.frmHoaDonBan.resources
+D:\database\Đồ Án\SANPHAM\SANPHAM\obj\Debug\SANPHAM.csproj.ResolveComReference.cache
